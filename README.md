@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
 Michael Virgo  
-February 12, 2017
+February 13, 2017
 
 ## Using Deep Learning to Detect Lane Lines
 
