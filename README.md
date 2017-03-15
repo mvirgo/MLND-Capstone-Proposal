@@ -11,7 +11,7 @@ One of my primary areas of focus, and in fact the reason I decided to do the Mac
 
 As part of the first term of the separate self-driving car nanodegree program, I was tasked with using many different computer vision techniques that require a decent amount of manual input and selection to arrive at the end result (see my Advanced Lane Lines project [here](https://github.com/mvirgo/Advanced-Lane-Lines)). With the knowledge gained from the Machine Learning nanodegree, and some of the Deep Learning course on Udacity's website, I wondered if there might be a better approach to this problem - one directly involving deep learning. Deep learning involves utilizing multiple-layered neural networks, which use mathematical properties to minimize losses from predictions vs. actuals to converge toward a final model, effectively learning as they train on data.
 
-####Why this matters
+#### Why this matters
 
 You may say that a fully autonomous vehicle might not necessarily need to directly identify the lane lines - it might otherwise just learn that there are boundaries it is not meant to cross, but not see them as much different from other types of boundaries. If we're skipping straight to a fully autonomous vehicle, this may be true. However, for many consumers, they will likely see more step-by-step changes, and showing them (potentially on an in-vehicle screen) that the car can always sense the lanes will go a long way in getting them comfortable with a computer doing the driving for them. Even short of this, enhanced lane detection could alert an inattentive driver when they drift from their lane.
 
