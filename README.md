@@ -3,6 +3,8 @@
 Michael Virgo  
 February 13, 2017
 
+Please see updates to (and the eventual final product) for this proposal in my Capstone repository [here](https://github.com/mvirgo/MLND-Capstone).
+
 ## Using Deep Learning to Detect Lane Lines
 
 ### Domain Background
